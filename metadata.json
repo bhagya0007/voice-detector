@@ -1,0 +1,7 @@
+{
+  "name": "VoxVerify AI Detection",
+  "description": "A production-ready voice authentication system that detects AI-generated audio versus human speech across five major languages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
