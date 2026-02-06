@@ -13,4 +13,4 @@ export const SUPPORTED_LANGUAGES: Language[] = [
 
 export const MOCK_API_KEY = "sk_test_123456789";
 
-export const API_ENDPOINT = "/api/voice-detection";
+export const API_ENDPOINT = "https://voxverify-backend-licw.onrender.com/api/voice-detection";
